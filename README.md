@@ -64,20 +64,20 @@ A modern, beautiful Flutter news application that delivers breaking news and hea
 
 ### Home Screen
 
-<img src="https://github.com/padukadafa/news/blob/main/screenshots/screenshot1.png?raw=true" alt="Halaman Utama" width="400">
+<img src="https://github.com/padukadafa/news/blob/master/screenshots/screenshot1.png?raw=true" alt="Halaman Utama" width="400">
 _Main screen with breaking news banner, headlines carousel, and news feed_
 
 ### Search Screen
 
-<img src="https://github.com/padukadafa/news/blob/main/screenshots/screenshot2.png?raw=true" alt="Halaman Utama" width="400">_Dedicated search screen with real-time results_
+<img src="https://github.com/padukadafa/news/blob/master/screenshots/screenshot2.png?raw=true" alt="Halaman Utama" width="400">_Dedicated search screen with real-time results_
 
 ### News Detail
 
-<img src="https://github.com/padukadafa/news/blob/main/screenshots/screenshot4.png?raw=true" alt="Halaman Utama" width="400">_Full article view with save functionality_
+<img src="https://github.com/padukadafa/news/blob/master/screenshots/screenshot4.png?raw=true" alt="Halaman Utama" width="400">_Full article view with save functionality_
 
 ### Saved Articles
 
-<img src="https://github.com/padukadafa/news/blob/main/screenshots/screenshot3.png?raw=true" alt="Halaman Utama" width="400">_Collection of saved articles for offline reading_
+<img src="https://github.com/padukadafa/news/blob/master/screenshots/screenshot3.png?raw=true" alt="Halaman Utama" width="400">_Collection of saved articles for offline reading_
 
 ## 🏗️ Architecture
 
